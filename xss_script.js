@@ -1,1 +1,1 @@
-alert("This is a XSS script");
+alert("This is a XSS script hosted on te web");
